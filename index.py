@@ -13,4 +13,6 @@ plt.title("Energy output from various fuel sources")
 
 plt.xticks(x_pos, x)
 
-plt.show()
+# plt.show()
+
+plt.savefig("img.png")
